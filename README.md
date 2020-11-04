@@ -19,6 +19,6 @@
 - https://docs.microsoft.com/en-us/troubleshoot/dotnet/csharp/read-write-text-file
 
 # My Experience:
-- My very first C# console app which allowed me to dig deeper into the language. It was a bit hard to understand at first, but the more i looked into it, the better i understand about C#. The hardest thing that i tried to learn was using both writing and read text file in the main function.
+- It is my very first C# console app. It was a bit hard to understand at first, but the more I looked into it, the better I know about C#. The hardest thing that I tried to learn was using both writing and read the text file in the main function.
 
 # New American Business Association
