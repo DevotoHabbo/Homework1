@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ferbi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ferbi\\.nuget\\packages"
+    ]
+  }
+}
